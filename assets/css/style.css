@@ -1,0 +1,7 @@
+body{
+    background-image: linear-gradient(to bottom, #eee96d, #e0d55d, #d2c14e, #c4ae3f, #b59b30, #b4962c, #b29027, #b18b23, #be9128, #ca972e, #d89c34, #e5a23a);
+    font-family: 'Quicksand', sans-serif;
+    font-size: 17px;
+    text-align: center;
+    color: wheat;
+}
