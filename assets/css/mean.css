@@ -1,7 +1,7 @@
 body{
-    background-color: darksalmon;
     font-family: 'PT Sans Narrow', sans-serif;
     font-size: 17px;
+    background-image: linear-gradient(to bottom, #4f0814, #6e251c, #8c4223, #a76129, #bd8331, #c47d3b, #ca7846, #cd7451, #a9545f, #75405f, #40314d, #181e2c);
 }
 h1{
     font-family: 'Lobster', cursive;
@@ -13,4 +13,14 @@ h3{
 h2{
     font-family: 'PT Sans Narrow', sans-serif;
     font-size: 27px;
+}
+
+.container {
+    color: white;
+}
+
+
+.fota {
+    text-align: right;
+    padding-right: 30px;
 }
